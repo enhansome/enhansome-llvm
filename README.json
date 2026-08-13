@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "description": "This repo includes LLVM-related projects, websites, docs, and other resources. Only well-maintained resources are included; PRs are welcome. This README.md itself mostly records LLVM backend (as well as mixed) resources; for Clang-specific ones, please check Clang.md in this repo.",
+      "items": [],
+      "title": "Awesome LLVM"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:34.256Z",
+    "original_repository": "learn-llvm/awesome-llvm",
+    "original_repository_sha": "ce0163e64c1f43861f02f8cf2108310adfae4be5",
+    "enhanced_repository": "enhansome/enhansome-llvm",
+    "enhanced_repository_description": null,
+    "title": "Awesome Websites(references) with stars"
+  }
+}
