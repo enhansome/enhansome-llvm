@@ -1,14 +1,953 @@
 {
   "items": [
     {
-      "description": "This repo includes LLVM-related projects, websites, docs, and other resources. Only well-maintained resources are included; PRs are welcome. This README.md itself mostly records LLVM backend (as well as mixed) resources; for Clang-specific ones, please check Clang.md in this repo.",
-      "items": [],
-      "title": "Awesome LLVM"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🐉 Tools for Learning LLVM TableGen",
+          "description": "tutorial by David Spickett about LLVM's TableGen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75821432,
+            "language": "LLVM",
+            "last_commit": "2026-08-19T12:37:21Z",
+            "owner": "llvm",
+            "repo": "llvm-project",
+            "stars": 39827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":octocat: LLVM-Tutor",
+          "description": "A collection of out-of-tree LLVM passes for teaching and learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177661574,
+            "language": "C++",
+            "last_commit": "2026-05-17T16:51:29Z",
+            "owner": "banach-space",
+            "repo": "llvm-tutor",
+            "stars": 3420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":octocat: llvm-ir-tutorial",
+          "description": "(in Chinese)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280558047,
+            "language": "LLVM",
+            "last_commit": "2026-01-04T08:16:54Z",
+            "owner": "Evian-Zhang",
+            "repo": "llvm-ir-tutorial",
+            "stars": 1516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":octocat: wuzhanglin/llvm-IR-examples",
+          "description": "Some examples for using LLVM to generate IR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 502602804,
+            "language": "C++",
+            "last_commit": "2022-08-23T23:28:12Z",
+            "owner": "wuzhanglin",
+            "repo": "llvm-IR-examples",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":octocat: srg-llvm-pass-tutorial",
+          "description": "A tutorial about llvm passes from Software reliability group",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20696164,
+            "language": "C++",
+            "last_commit": "2015-04-26T16:04:29Z",
+            "owner": "delcypher",
+            "repo": "srg-llvm-pass-tutorial",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":octocat: learning-llvm",
+          "description": "a project for learning about llvm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318727575,
+            "language": "C",
+            "last_commit": "2022-09-13T16:17:29Z",
+            "owner": "danbev",
+            "repo": "learning-llvm",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":octocat: LLVM-Pass-Analysis-Collection",
+          "description": "A Collection of LLVM Pass for Program Analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 446857644,
+            "language": "C++",
+            "last_commit": "2023-12-03T03:30:09Z",
+            "owner": "JohannesLiu",
+            "repo": "LLVM-Pass-Analysis-Toolkit",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":octocat: lahiri-phdworks/LLVM-Examples",
+          "description": "LLVM Repository and Code samples. LLVM Passes and quick bytes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 412692496,
+            "language": "LLVM",
+            "last_commit": "2024-05-20T21:54:59Z",
+            "owner": "lahiri-phdworks",
+            "repo": "LLVM-Examples",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "🐉 LLVM Tutorials",
+          "description": "a list of tutorials",
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":octocat: Python Version of the LLVM Tutorial",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29869822,
+                "language": "Python",
+                "last_commit": "2026-07-01T12:26:22Z",
+                "owner": "eliben",
+                "repo": "pykaleidoscope",
+                "stars": 343
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "🐉 LLVM Language Reference Manual",
+          "description": "detailed docs for LLVM IR/Bitcode",
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":octocat: PSA: Instruction-constructors changing to iterator-only insertion",
+              "description": "VSCode LLVM Compiler Explorer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 533653616,
+                "language": "TypeScript",
+                "last_commit": "2024-05-30T07:15:09Z",
+                "owner": "sunxfancy",
+                "repo": "vscode-llvm",
+                "stars": 237
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Tutorials/Documentation (reference)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BOLT",
+          "description": "a post-link optimizer developed to speed up large applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75821432,
+            "language": "LLVM",
+            "last_commit": "2026-08-19T12:37:21Z",
+            "owner": "llvm",
+            "repo": "llvm-project",
+            "stars": 39827
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "MLIR",
+          "description": "Multi-Level Intermediate Representation",
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":octocat: llvm/Torch-LLVM",
+              "description": "first class support from the PyTorch ecosystem to the MLIR ecosystem",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283871761,
+                "language": "C++",
+                "last_commit": "2026-08-18T14:58:47Z",
+                "owner": "llvm",
+                "repo": "torch-mlir",
+                "stars": 1888
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":octocat: j2kun/mlir-tutorial",
+              "description": "a series of articles on the MLIR framework for building compilers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 606225969,
+                "language": "C++",
+                "last_commit": "2025-07-18T17:08:40Z",
+                "owner": "j2kun",
+                "repo": "mlir-tutorial",
+                "stars": 1346
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":octocat: llvm/Polygeist",
+              "description": "C/C++ frontend for MLIR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278118079,
+                "language": "C++",
+                "last_commit": "2025-06-19T16:30:32Z",
+                "owner": "llvm",
+                "repo": "Polygeist",
+                "stars": 623
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":octocat: intel/mlir-extensions",
+              "description": "Intel® Extension for MLIR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 394449678,
+                "language": "MLIR",
+                "last_commit": "2026-08-18T15:09:42Z",
+                "owner": "intel",
+                "repo": "mlir-extensions",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":octocat: Lewuathe/mlir-hello",
+              "description": "minimal Hello-World example of MLIR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 317750590,
+                "language": "C++",
+                "last_commit": "2025-12-23T06:04:47Z",
+                "owner": "Lewuathe",
+                "repo": "mlir-hello",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "out-of-tree MLIR project templates: zincnode/mlir-he",
+              "description": ", jmgorius/mlir-standalone-template, Lewuathe/mlir-hello",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 794830262,
+                "language": "Python",
+                "last_commit": "2025-02-16T12:29:42Z",
+                "owner": "zincnode",
+                "repo": "mlir-he",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":octocat: melior",
+              "description": "The rustic MLIR bindings in Rust; see also introduction blog post",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611292322,
+                "language": "Rust",
+                "last_commit": "2026-08-18T14:22:14Z",
+                "owner": "edg-l",
+                "repo": "melior",
+                "stars": 2
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Official Tools/Libraries (reference)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Emscripten",
+          "description": "An LLVM-to-JavaScript Compiler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1357796,
+            "language": "C++",
+            "last_commit": "2026-08-19T11:01:55Z",
+            "owner": "emscripten-core",
+            "repo": "emscripten",
+            "stars": 27571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infer",
+          "description": "Facebook's static analysis framework; C/C++/objc is based on LLVM/Clang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29857799,
+            "language": "OCaml",
+            "last_commit": "2026-08-19T11:28:51Z",
+            "owner": "facebook",
+            "repo": "infer",
+            "stars": 15679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RetDec",
+          "description": "a retargetable machine-code decompiler based on LLVM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 113967646,
+            "language": "C++",
+            "last_commit": "2026-05-26T09:04:25Z",
+            "owner": "avast",
+            "repo": "retdec",
+            "stars": 8606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ollvm",
+          "description": "code obfuscation based on LLVM4.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8579034,
+            "language": null,
+            "last_commit": "2023-10-20T11:20:42Z",
+            "owner": "obfuscator-llvm",
+            "repo": "obfuscator",
+            "stars": 4385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cling",
+          "description": "The cling C++ interpreter (1.0 has been released)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49210203,
+            "language": "C++",
+            "last_commit": "2026-08-06T06:09:15Z",
+            "owner": "root-project",
+            "repo": "cling",
+            "stars": 4177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IKOS",
+          "description": "Static analyzer for C/C++ based on the theory of Abstract Interpretation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 107311216,
+            "language": "C++",
+            "last_commit": "2026-05-31T18:45:21Z",
+            "owner": "NASA-SW-VnV",
+            "repo": "ikos",
+            "stars": 3161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "klee",
+          "description": "Symbolic Virtual Machine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11568417,
+            "language": "C++",
+            "last_commit": "2026-07-06T13:42:13Z",
+            "owner": "klee",
+            "repo": "klee",
+            "stars": 2971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mstorsjo/llvm-mingw",
+          "description": "An LLVM/Clang/LLD based mingw-w64 toolchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112254496,
+            "language": "C",
+            "last_commit": "2026-08-19T08:33:59Z",
+            "owner": "mstorsjo",
+            "repo": "llvm-mingw",
+            "stars": 2928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcsema",
+          "description": "An x86 to LLVM IR decompiler",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 22399826,
+            "language": "C++",
+            "last_commit": "2022-04-26T13:43:28Z",
+            "owner": "lifting-bits",
+            "repo": "mcsema",
+            "stars": 2787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google/souper",
+          "description": "A superoptimizer for LLVM IR",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 18458047,
+            "language": "C++",
+            "last_commit": "2024-08-28T04:33:42Z",
+            "owner": "google",
+            "repo": "souper",
+            "stars": 2389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "circt",
+          "description": "Circuit IR Compilers and Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245072514,
+            "language": "C++",
+            "last_commit": "2026-08-19T01:47:04Z",
+            "owner": "llvm",
+            "repo": "circt",
+            "stars": 2221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QBDI",
+          "description": "A Dynamic Binary Instrumentation framework based on LLVM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108147444,
+            "language": "C++",
+            "last_commit": "2026-07-24T16:05:31Z",
+            "owner": "QBDI",
+            "repo": "QBDI",
+            "stars": 1810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remill",
+          "description": "Library for lifting machine code to LLVM bitcode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44748533,
+            "language": "C++",
+            "last_commit": "2026-07-01T13:41:55Z",
+            "owner": "lifting-bits",
+            "repo": "remill",
+            "stars": 1799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SVF-tools",
+          "description": "Pointer Analysis and Program Dependence Analysis for C and C++ Programs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36905975,
+            "language": "C++",
+            "last_commit": "2026-07-30T13:10:28Z",
+            "owner": "SVF-tools",
+            "repo": "SVF",
+            "stars": 1701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phasar",
+          "description": "A LLVM-based static analysis framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131954048,
+            "language": "C++",
+            "last_commit": "2026-08-18T16:24:22Z",
+            "owner": "secure-software-engineering",
+            "repo": "phasar",
+            "stars": 1053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microsoft/llvm-mctoll",
+          "description": "statically (AOT) translates (or raises) binaries to LLVM IR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152660616,
+            "language": "C++",
+            "last_commit": "2024-06-22T09:08:55Z",
+            "owner": "microsoft",
+            "repo": "llvm-mctoll",
+            "stars": 877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whole-program-llvm",
+          "description": "A wrapper script to build whole-program LLVM bitcode files; its go port gllvm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1988041,
+            "language": "Python",
+            "last_commit": "2025-12-30T07:12:39Z",
+            "owner": "travitch",
+            "repo": "whole-program-llvm",
+            "stars": 734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llvm-pass-skeleton",
+          "description": "example LLVM pass",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39582116,
+            "language": "C++",
+            "last_commit": "2025-03-06T03:40:58Z",
+            "owner": "sampsyo",
+            "repo": "llvm-pass-skeleton",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DG",
+          "description": "Various program analyses, construction of dependence graphs and program slicing of LLVM bitcode",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dg can integrate SVF, see here",
+              "description": "for details",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31018102,
+                "language": "C++",
+                "last_commit": "2025-05-21T12:58:07Z",
+                "owner": "mchalupa",
+                "repo": "dg",
+                "stars": 525
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 31018102,
+            "language": "C++",
+            "last_commit": "2025-05-21T12:58:07Z",
+            "owner": "mchalupa",
+            "repo": "dg",
+            "stars": 525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smack",
+          "description": "SMACK Software Verifier and Verification Toolchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5234086,
+            "language": "C",
+            "last_commit": "2026-08-19T06:48:34Z",
+            "owner": "smackers",
+            "repo": "smack",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dr checker",
+          "description": "A Soundy Vulnerability Detection Tool for Linux Kernel Drivers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92881927,
+            "language": "C++",
+            "last_commit": "2022-04-30T02:34:23Z",
+            "owner": "ucsb-seclab",
+            "repo": "dr_checker",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seahorn/clam",
+          "description": "a static analyzer (CLI) based on seahorn/crab, the latter of which is abstract Interpretation-based library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95927803,
+            "language": "C",
+            "last_commit": "2026-08-08T00:08:11Z",
+            "owner": "seahorn",
+            "repo": "clam",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llvm2cpg",
+          "description": "LLVM meets Code Property Graphs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 340485711,
+            "language": "C++",
+            "last_commit": "2021-02-27T09:20:16Z",
+            "owner": "ShiftLeftSecurity",
+            "repo": "llvm2cpg",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llvm2c",
+          "description": "Decompiler of LLVM bitcode to C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189963014,
+            "language": "C++",
+            "last_commit": "2025-12-04T19:11:29Z",
+            "owner": "staticafi",
+            "repo": "llvm2c",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GaloisInc/yapall",
+          "description": "A precise and scalable pointer analysis for LLVM, written in Ascent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 674661910,
+            "language": "C",
+            "last_commit": "2025-03-01T15:35:42Z",
+            "owner": "GaloisInc",
+            "repo": "yapall",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diffkemp",
+          "description": "Static analysis of semantic differences in kernel versionsa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114360782,
+            "language": "C++",
+            "last_commit": "2026-07-31T13:31:03Z",
+            "owner": "diffkemp",
+            "repo": "diffkemp",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llvm-crash-analyzer",
+          "description": "- crash analysis against coredump files based on LLVM Machine-IR, together with LLDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 476193597,
+            "language": "C++",
+            "last_commit": "2024-06-26T23:17:05Z",
+            "owner": "cisco-open",
+            "repo": "llvm-crash-analyzer",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Unofficial Tools/Libraries (reference)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "llvmlite",
+          "description": "A lightweight LLVM python binding for writing JIT compilers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22725061,
+            "language": "Python",
+            "last_commit": "2026-08-18T19:12:17Z",
+            "owner": "numba",
+            "repo": "llvmlite",
+            "stars": 2283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-llvm",
+          "description": "Go binding",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150896460,
+            "language": "Go",
+            "last_commit": "2026-07-21T07:29:08Z",
+            "owner": "tinygo-org",
+            "repo": "go-llvm",
+            "stars": 290
+          }
+        }
+      ],
+      "title": "Bindings"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "codon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 410989014,
+            "language": "Python",
+            "last_commit": "2026-08-18T17:46:39Z",
+            "owner": "exaloop",
+            "repo": "codon",
+            "stars": 16830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "numba",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3659275,
+            "language": "Python",
+            "last_commit": "2026-08-19T10:29:26Z",
+            "owner": "numba",
+            "repo": "numba",
+            "stars": 11124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scala-native",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27235687,
+            "language": "Scala",
+            "last_commit": "2026-08-17T03:33:59Z",
+            "owner": "scala-native",
+            "repo": "scala-native",
+            "stars": 4684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "solang",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163517929,
+            "language": "Rust",
+            "last_commit": "2026-08-15T05:54:45Z",
+            "owner": "hyperledger-solang",
+            "repo": "solang",
+            "stars": 1382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ldc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2174666,
+            "language": "D",
+            "last_commit": "2026-08-19T01:28:15Z",
+            "owner": "ldc-developers",
+            "repo": "ldc",
+            "stars": 1363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-llvm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 2715490,
+            "language": "Go",
+            "last_commit": "2015-01-05T01:15:37Z",
+            "owner": "go-llvm",
+            "repo": "llgo",
+            "stars": 1250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ola",
+          "description": "a toy language, for learning LLVM-backend codegen",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 698604379,
+            "language": "C++",
+            "last_commit": "2026-06-06T09:49:18Z",
+            "owner": "mateeeeeee",
+            "repo": "Ola",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "LLVM-backed Languages"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":octocat: static-analysis",
+          "description": "A curated list of static analysis tools and linters for all programming languages, config files, build tools, and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48246447,
+            "language": "Rust",
+            "last_commit": "2026-06-10T13:06:01Z",
+            "owner": "analysis-tools-dev",
+            "repo": "static-analysis",
+            "stars": 14737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":octocat: dynamic-analysis",
+          "description": "A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134979079,
+            "language": "Markdown",
+            "last_commit": "2026-07-20T11:03:02Z",
+            "owner": "analysis-tools-dev",
+            "repo": "dynamic-analysis",
+            "stars": 1101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":octocat: awesome-llvm-security",
+          "description": "awesome llvm security projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 446452352,
+            "language": null,
+            "last_commit": "2026-08-14T16:50:48Z",
+            "owner": "gmh5225",
+            "repo": "awesome-llvm-security",
+            "stars": 872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":octocat: LLVM-Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 398888373,
+            "language": "C++",
+            "last_commit": "2024-01-04T22:34:30Z",
+            "owner": "mikeroyal",
+            "repo": "LLVM-Guide",
+            "stars": 202
+          }
+        }
+      ],
+      "title": "Other relevant resources:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:54:41.627Z",
+    "last_updated": "2026-08-19T12:39:32.098Z",
     "original_repository": "learn-llvm/awesome-llvm",
+    "original_repository_id": 29251104,
     "original_repository_sha": "ce0163e64c1f43861f02f8cf2108310adfae4be5",
     "enhanced_repository": "enhansome/enhansome-llvm",
     "enhanced_repository_description": null,
