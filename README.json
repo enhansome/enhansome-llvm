@@ -12,10 +12,10 @@
             "archived": false,
             "id": 75821432,
             "language": "LLVM",
-            "last_commit": "2026-08-20T03:51:32Z",
+            "last_commit": "2026-08-21T03:55:36Z",
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 39828
+            "stars": 39838
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-01-04T08:16:54Z",
             "owner": "Evian-Zhang",
             "repo": "llvm-ir-tutorial",
-            "stars": 1516
+            "stars": 1517
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-09-13T16:17:29Z",
             "owner": "danbev",
             "repo": "learning-llvm",
-            "stars": 18
+            "stars": 17
           }
         },
         {
@@ -182,10 +182,10 @@
             "archived": false,
             "id": 75821432,
             "language": "LLVM",
-            "last_commit": "2026-08-20T03:51:32Z",
+            "last_commit": "2026-08-21T03:55:36Z",
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 39828
+            "stars": 39838
           }
         },
         {
@@ -202,10 +202,10 @@
                 "archived": false,
                 "id": 283871761,
                 "language": "C++",
-                "last_commit": "2026-08-19T20:56:14Z",
+                "last_commit": "2026-08-20T14:04:27Z",
                 "owner": "llvm",
                 "repo": "torch-mlir",
-                "stars": 1887
+                "stars": 1889
               }
             },
             {
@@ -220,7 +220,7 @@
                 "last_commit": "2025-07-18T17:08:40Z",
                 "owner": "j2kun",
                 "repo": "mlir-tutorial",
-                "stars": 1348
+                "stars": 1346
               }
             },
             {
@@ -235,7 +235,7 @@
                 "last_commit": "2025-06-19T16:30:32Z",
                 "owner": "llvm",
                 "repo": "Polygeist",
-                "stars": 623
+                "stars": 624
               }
             },
             {
@@ -315,10 +315,10 @@
             "archived": false,
             "id": 1357796,
             "language": "C++",
-            "last_commit": "2026-08-20T00:23:30Z",
+            "last_commit": "2026-08-20T23:39:26Z",
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27574
+            "stars": 27576
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-08-19T11:28:51Z",
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15679
+            "stars": 15683
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2023-10-20T11:20:42Z",
             "owner": "obfuscator-llvm",
             "repo": "obfuscator",
-            "stars": 4385
+            "stars": 4386
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-19T08:33:59Z",
             "owner": "mstorsjo",
             "repo": "llvm-mingw",
-            "stars": 2929
+            "stars": 2927
           }
         },
         {
@@ -465,10 +465,10 @@
             "archived": false,
             "id": 245072514,
             "language": "C++",
-            "last_commit": "2026-08-20T02:53:12Z",
+            "last_commit": "2026-08-21T02:33:14Z",
             "owner": "llvm",
             "repo": "circt",
-            "stars": 2221
+            "stars": 2225
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-07-24T16:05:31Z",
             "owner": "QBDI",
             "repo": "QBDI",
-            "stars": 1810
+            "stars": 1811
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-07-01T13:41:55Z",
             "owner": "lifting-bits",
             "repo": "remill",
-            "stars": 1799
+            "stars": 1798
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-07-30T13:10:28Z",
             "owner": "SVF-tools",
             "repo": "SVF",
-            "stars": 1701
+            "stars": 1702
           }
         },
         {
@@ -525,10 +525,10 @@
             "archived": false,
             "id": 131954048,
             "language": "C++",
-            "last_commit": "2026-08-19T16:40:01Z",
+            "last_commit": "2026-08-20T16:52:37Z",
             "owner": "secure-software-engineering",
             "repo": "phasar",
-            "stars": 1053
+            "stars": 1054
           }
         },
         {
@@ -573,7 +573,7 @@
             "last_commit": "2025-03-06T03:40:58Z",
             "owner": "sampsyo",
             "repo": "llvm-pass-skeleton",
-            "stars": 613
+            "stars": 614
           }
         },
         {
@@ -616,7 +616,7 @@
             "archived": false,
             "id": 5234086,
             "language": "C",
-            "last_commit": "2026-08-19T06:48:34Z",
+            "last_commit": "2026-08-20T19:28:49Z",
             "owner": "smackers",
             "repo": "smack",
             "stars": 448
@@ -664,7 +664,7 @@
             "last_commit": "2021-02-27T09:20:16Z",
             "owner": "ShiftLeftSecurity",
             "repo": "llvm2cpg",
-            "stars": 95
+            "stars": 94
           }
         },
         {
@@ -742,7 +742,7 @@
             "archived": false,
             "id": 22725061,
             "language": "Python",
-            "last_commit": "2026-08-18T19:12:17Z",
+            "last_commit": "2026-08-20T22:21:27Z",
             "owner": "numba",
             "repo": "llvmlite",
             "stars": 2283
@@ -778,10 +778,10 @@
             "archived": false,
             "id": 410989014,
             "language": "Python",
-            "last_commit": "2026-08-19T23:41:54Z",
+            "last_commit": "2026-08-21T03:25:26Z",
             "owner": "exaloop",
             "repo": "codon",
-            "stars": 16828
+            "stars": 16830
           }
         },
         {
@@ -793,10 +793,10 @@
             "archived": false,
             "id": 3659275,
             "language": "Python",
-            "last_commit": "2026-08-19T23:23:52Z",
+            "last_commit": "2026-08-20T23:21:28Z",
             "owner": "numba",
             "repo": "numba",
-            "stars": 11124
+            "stars": 11125
           }
         },
         {
@@ -838,7 +838,7 @@
             "archived": false,
             "id": 2174666,
             "language": "D",
-            "last_commit": "2026-08-20T01:27:28Z",
+            "last_commit": "2026-08-21T01:19:49Z",
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1364
@@ -892,7 +892,7 @@
             "last_commit": "2026-06-10T13:06:01Z",
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14736
+            "stars": 14739
           }
         },
         {
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:54:45.604Z",
+    "last_updated": "2026-08-21T03:57:00.513Z",
     "original_repository": "learn-llvm/awesome-llvm",
     "original_repository_id": 29251104,
     "original_repository_sha": "ce0163e64c1f43861f02f8cf2108310adfae4be5",
