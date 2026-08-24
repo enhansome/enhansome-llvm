@@ -12,10 +12,10 @@
             "archived": false,
             "id": 75821432,
             "language": "LLVM",
-            "last_commit": "2026-08-24T03:35:08Z",
+            "last_commit": "2026-08-24T14:18:18Z",
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 39895
+            "stars": 39905
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-17T16:51:29Z",
             "owner": "banach-space",
             "repo": "llvm-tutor",
-            "stars": 3422
+            "stars": 3423
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-01-04T08:16:54Z",
             "owner": "Evian-Zhang",
             "repo": "llvm-ir-tutorial",
-            "stars": 1517
+            "stars": 1518
           }
         },
         {
@@ -182,10 +182,10 @@
             "archived": false,
             "id": 75821432,
             "language": "LLVM",
-            "last_commit": "2026-08-24T03:35:08Z",
+            "last_commit": "2026-08-24T14:18:18Z",
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 39895
+            "stars": 39905
           }
         },
         {
@@ -220,7 +220,7 @@
                 "last_commit": "2025-07-18T17:08:40Z",
                 "owner": "j2kun",
                 "repo": "mlir-tutorial",
-                "stars": 1346
+                "stars": 1347
               }
             },
             {
@@ -315,7 +315,7 @@
             "archived": false,
             "id": 1357796,
             "language": "C++",
-            "last_commit": "2026-08-23T16:42:21Z",
+            "last_commit": "2026-08-24T10:51:47Z",
             "owner": "emscripten-core",
             "repo": "emscripten",
             "stars": 27575
@@ -348,7 +348,7 @@
             "last_commit": "2026-05-26T09:04:25Z",
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8607
+            "stars": 8609
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2023-10-20T11:20:42Z",
             "owner": "obfuscator-llvm",
             "repo": "obfuscator",
-            "stars": 4387
+            "stars": 4388
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-23T09:22:12Z",
             "owner": "mstorsjo",
             "repo": "llvm-mingw",
-            "stars": 2930
+            "stars": 2931
           }
         },
         {
@@ -465,10 +465,10 @@
             "archived": false,
             "id": 245072514,
             "language": "C++",
-            "last_commit": "2026-08-22T21:50:49Z",
+            "last_commit": "2026-08-24T07:18:10Z",
             "owner": "llvm",
             "repo": "circt",
-            "stars": 2227
+            "stars": 2226
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-07-01T13:41:55Z",
             "owner": "lifting-bits",
             "repo": "remill",
-            "stars": 1802
+            "stars": 1805
           }
         },
         {
@@ -510,7 +510,7 @@
             "archived": false,
             "id": 36905975,
             "language": "C++",
-            "last_commit": "2026-08-24T02:29:48Z",
+            "last_commit": "2026-08-24T11:31:31Z",
             "owner": "SVF-tools",
             "repo": "SVF",
             "stars": 1705
@@ -525,7 +525,7 @@
             "archived": false,
             "id": 131954048,
             "language": "C++",
-            "last_commit": "2026-08-20T16:52:37Z",
+            "last_commit": "2026-08-24T13:06:11Z",
             "owner": "secure-software-engineering",
             "repo": "phasar",
             "stars": 1054
@@ -543,7 +543,7 @@
             "last_commit": "2024-06-22T09:08:55Z",
             "owner": "microsoft",
             "repo": "llvm-mctoll",
-            "stars": 877
+            "stars": 878
           }
         },
         {
@@ -778,7 +778,7 @@
             "archived": false,
             "id": 410989014,
             "language": "Python",
-            "last_commit": "2026-08-24T03:12:57Z",
+            "last_commit": "2026-08-24T04:26:07Z",
             "owner": "exaloop",
             "repo": "codon",
             "stars": 16832
@@ -841,7 +841,7 @@
             "last_commit": "2026-08-24T01:38:08Z",
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1365
+            "stars": 1366
           }
         },
         {
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:01:42.929Z",
+    "last_updated": "2026-08-24T14:19:43.769Z",
     "original_repository": "learn-llvm/awesome-llvm",
     "original_repository_id": 29251104,
     "original_repository_sha": "ce0163e64c1f43861f02f8cf2108310adfae4be5",
