@@ -12,10 +12,10 @@
             "archived": false,
             "id": 75821432,
             "language": "LLVM",
-            "last_commit": "2026-08-25T03:55:09Z",
+            "last_commit": "2026-08-25T06:10:26Z",
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 39916
+            "stars": 39917
           }
         },
         {
@@ -182,10 +182,10 @@
             "archived": false,
             "id": 75821432,
             "language": "LLVM",
-            "last_commit": "2026-08-25T03:55:09Z",
+            "last_commit": "2026-08-25T06:10:26Z",
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 39916
+            "stars": 39917
           }
         },
         {
@@ -465,7 +465,7 @@
             "archived": false,
             "id": 245072514,
             "language": "C++",
-            "last_commit": "2026-08-25T01:23:01Z",
+            "last_commit": "2026-08-25T04:02:36Z",
             "owner": "llvm",
             "repo": "circt",
             "stars": 2226
@@ -616,7 +616,7 @@
             "archived": false,
             "id": 5234086,
             "language": "C",
-            "last_commit": "2026-08-23T05:25:32Z",
+            "last_commit": "2026-08-25T05:31:48Z",
             "owner": "smackers",
             "repo": "smack",
             "stars": 448
@@ -742,7 +742,7 @@
             "archived": false,
             "id": 22725061,
             "language": "Python",
-            "last_commit": "2026-08-21T17:40:09Z",
+            "last_commit": "2026-08-25T06:01:40Z",
             "owner": "numba",
             "repo": "llvmlite",
             "stars": 2284
@@ -793,7 +793,7 @@
             "archived": false,
             "id": 3659275,
             "language": "Python",
-            "last_commit": "2026-08-21T17:39:56Z",
+            "last_commit": "2026-08-25T06:02:21Z",
             "owner": "numba",
             "repo": "numba",
             "stars": 11127
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:55:30.561Z",
+    "last_updated": "2026-08-25T06:10:45.808Z",
     "original_repository": "learn-llvm/awesome-llvm",
     "original_repository_id": 29251104,
     "original_repository_sha": "ce0163e64c1f43861f02f8cf2108310adfae4be5",

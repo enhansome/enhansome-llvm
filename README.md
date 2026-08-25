@@ -1,4 +1,4 @@
-## Awesome LLVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,667 | 🐛 106 | 📅 2026-08-21
+## Awesome LLVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,702 | 🐛 106 | 📅 2026-08-21
 
 This repo includes LLVM-related projects, websites, docs, and other resources. Only well-maintained resources are included; PRs are welcome.
 This README.md itself mostly records **LLVM backend** (as well as mixed) resources; for **Clang**-specific ones, please check **[Clang.md](./Clang.md)** in this repo.
@@ -32,7 +32,7 @@ This README.md itself mostly records **LLVM backend** (as well as mixed) resourc
 
 # Tutorials/Documentation ([reference](http://llvm.org/docs/index.html))
 
-* 🐉 [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/) - tutorial by David Spickett about LLVM's [TableGen](https://github.com/llvm/llvm-project/tree/main/llvm/utils/TableGen) ⭐ 39,916 | 🐛 38,460 | 🌐 LLVM | 📅 2026-08-25
+* 🐉 [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/) - tutorial by David Spickett about LLVM's [TableGen](https://github.com/llvm/llvm-project/tree/main/llvm/utils/TableGen) ⭐ 39,917 | 🐛 38,455 | 🌐 LLVM | 📅 2026-08-25
 * :octocat: [LLVM-Tutor](https://github.com/banach-space/llvm-tutor) ⭐ 3,423 | 🐛 14 | 🌐 C++ | 📅 2026-05-17 - A collection of out-of-tree LLVM passes for teaching and learning
 * :octocat: [llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial) ⭐ 1,518 | 🐛 1 | 🌐 LLVM | 📅 2026-01-04 (in Chinese)
 * :octocat: [wuzhanglin/llvm-IR-examples](https://github.com/wuzhanglin/llvm-IR-examples) ⭐ 44 | 🐛 0 | 🌐 C++ | 📅 2022-08-23 - Some examples for using LLVM to generate IR
@@ -92,7 +92,7 @@ This README.md itself mostly records **LLVM backend** (as well as mixed) resourc
 
 # Official Tools/Libraries ([reference](http://llvm.org/docs/CommandGuide/index.html))
 
-* [BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/README.md) ⭐ 39,916 | 🐛 38,460 | 🌐 LLVM | 📅 2026-08-25 - a post-link optimizer developed to speed up large applications
+* [BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/README.md) ⭐ 39,917 | 🐛 38,455 | 🌐 LLVM | 📅 2026-08-25 - a post-link optimizer developed to speed up large applications
 * Core Utilities
   * [opt](http://llvm.org/docs/CommandGuide/opt.html) - LLVM optimizer, for LLVM analysis and transformation passes, works on `.ll` or `.bc` files
     * 📹 [Core C++ 2021 :: opt-viewer: Inspecting compiler optimizations in high-level code](https://www.youtube.com/watch?v=BJ_yxTmZQbc)
@@ -164,7 +164,7 @@ This README.md itself mostly records **LLVM backend** (as well as mixed) resourc
 * [llvm-pass-skeleton](https://github.com/sampsyo/llvm-pass-skeleton) ⭐ 614 | 🐛 8 | 🌐 C++ | 📅 2025-03-06 - example LLVM pass
 * [DG](https://github.com/mchalupa/dg) ⭐ 525 | 🐛 93 | 🌐 C++ | 📅 2025-05-21 -  Various program analyses, construction of dependence graphs and program slicing of LLVM bitcode
   * dg can integrate SVF, see [here](https://github.com/mchalupa/dg/blob/master/doc/SVF.md) ⭐ 525 | 🐛 93 | 🌐 C++ | 📅 2025-05-21 for details
-* [smack](https://github.com/smackers/smack) ⭐ 448 | 🐛 94 | 🌐 C | 📅 2026-08-23 - SMACK Software Verifier and Verification Toolchain
+* [smack](https://github.com/smackers/smack) ⭐ 448 | 🐛 95 | 🌐 C | 📅 2026-08-25 - SMACK Software Verifier and Verification Toolchain
 * [dr checker](https://github.com/ucsb-seclab/dr_checker) ⭐ 339 | 🐛 12 | 🌐 C++ | 📅 2022-04-30 - A Soundy Vulnerability Detection Tool for Linux Kernel Drivers
 * [seahorn/clam](https://github.com/seahorn/clam) ⭐ 286 | 🐛 5 | 🌐 C | 📅 2026-08-08 - a static analyzer (CLI) based on [seahorn/crab](https://github.com/seahorn/crab) ⭐ 250 | 🐛 6 | 🌐 C++ | 📅 2026-08-21, the latter of which is abstract Interpretation-based library
 * [llvm2cpg](https://github.com/ShiftLeftSecurity/llvm2cpg) ⭐ 94 | 🐛 3 | 🌐 C++ | 📅 2021-02-27 - LLVM meets Code Property Graphs
@@ -179,14 +179,14 @@ This README.md itself mostly records **LLVM backend** (as well as mixed) resourc
 
 # Bindings
 
-* [llvmlite](https://github.com/numba/llvmlite) ⭐ 2,284 | 🐛 172 | 🌐 Python | 📅 2026-08-21 - A lightweight LLVM **python** binding for writing JIT compilers
+* [llvmlite](https://github.com/numba/llvmlite) ⭐ 2,284 | 🐛 170 | 🌐 Python | 📅 2026-08-25 - A lightweight LLVM **python** binding for writing JIT compilers
 * [go-llvm](https://github.com/tinygo-org/go-llvm) ⭐ 290 | 🐛 6 | 🌐 Go | 📅 2026-07-21 - **Go** binding
 * [LLVM Rust crates](https://crates.io/search?q=llvm) - **Rust** bindings
 
 # LLVM-backed Languages
 
 * [codon](https://github.com/exaloop/codon) ⭐ 16,833 | 🐛 119 | 🌐 Python | 📅 2026-08-24
-* [numba](https://github.com/numba/numba) ⭐ 11,127 | 🐛 1,795 | 🌐 Python | 📅 2026-08-21
+* [numba](https://github.com/numba/numba) ⭐ 11,127 | 🐛 1,794 | 🌐 Python | 📅 2026-08-25
 * [scala-native](https://github.com/scala-native/scala-native) ⭐ 4,685 | 🐛 421 | 🌐 Scala | 📅 2026-08-17
 * [solang](https://github.com/hyperledger/solang) ⭐ 1,381 | 🐛 302 | 🌐 Rust | 📅 2026-08-15
 * [ldc](https://github.com/ldc-developers/ldc) ⭐ 1,366 | 🐛 580 | 🌐 D | 📅 2026-08-25
