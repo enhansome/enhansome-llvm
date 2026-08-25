@@ -12,10 +12,10 @@
             "archived": false,
             "id": 75821432,
             "language": "LLVM",
-            "last_commit": "2026-08-24T14:18:18Z",
+            "last_commit": "2026-08-25T03:55:09Z",
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 39905
+            "stars": 39916
           }
         },
         {
@@ -182,10 +182,10 @@
             "archived": false,
             "id": 75821432,
             "language": "LLVM",
-            "last_commit": "2026-08-24T14:18:18Z",
+            "last_commit": "2026-08-25T03:55:09Z",
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 39905
+            "stars": 39916
           }
         },
         {
@@ -202,7 +202,7 @@
                 "archived": false,
                 "id": 283871761,
                 "language": "C++",
-                "last_commit": "2026-08-20T14:04:27Z",
+                "last_commit": "2026-08-24T20:29:24Z",
                 "owner": "llvm",
                 "repo": "torch-mlir",
                 "stars": 1889
@@ -315,10 +315,10 @@
             "archived": false,
             "id": 1357796,
             "language": "C++",
-            "last_commit": "2026-08-24T10:51:47Z",
+            "last_commit": "2026-08-24T19:59:45Z",
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27575
+            "stars": 27576
           }
         },
         {
@@ -330,10 +330,10 @@
             "archived": false,
             "id": 29857799,
             "language": "OCaml",
-            "last_commit": "2026-08-21T12:01:45Z",
+            "last_commit": "2026-08-24T17:51:05Z",
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15686
+            "stars": 15687
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2026-05-31T18:45:21Z",
             "owner": "NASA-SW-VnV",
             "repo": "ikos",
-            "stars": 3160
+            "stars": 3161
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-23T09:22:12Z",
             "owner": "mstorsjo",
             "repo": "llvm-mingw",
-            "stars": 2931
+            "stars": 2932
           }
         },
         {
@@ -465,7 +465,7 @@
             "archived": false,
             "id": 245072514,
             "language": "C++",
-            "last_commit": "2026-08-24T07:18:10Z",
+            "last_commit": "2026-08-25T01:23:01Z",
             "owner": "llvm",
             "repo": "circt",
             "stars": 2226
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-21T14:41:17Z",
             "owner": "QBDI",
             "repo": "QBDI",
-            "stars": 1814
+            "stars": 1815
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-07-01T13:41:55Z",
             "owner": "lifting-bits",
             "repo": "remill",
-            "stars": 1805
+            "stars": 1806
           }
         },
         {
@@ -525,7 +525,7 @@
             "archived": false,
             "id": 131954048,
             "language": "C++",
-            "last_commit": "2026-08-24T13:06:11Z",
+            "last_commit": "2026-08-24T15:05:43Z",
             "owner": "secure-software-engineering",
             "repo": "phasar",
             "stars": 1054
@@ -745,7 +745,7 @@
             "last_commit": "2026-08-21T17:40:09Z",
             "owner": "numba",
             "repo": "llvmlite",
-            "stars": 2283
+            "stars": 2284
           }
         },
         {
@@ -781,7 +781,7 @@
             "last_commit": "2026-08-24T04:26:07Z",
             "owner": "exaloop",
             "repo": "codon",
-            "stars": 16832
+            "stars": 16833
           }
         },
         {
@@ -796,7 +796,7 @@
             "last_commit": "2026-08-21T17:39:56Z",
             "owner": "numba",
             "repo": "numba",
-            "stars": 11126
+            "stars": 11127
           }
         },
         {
@@ -838,7 +838,7 @@
             "archived": false,
             "id": 2174666,
             "language": "D",
-            "last_commit": "2026-08-24T01:38:08Z",
+            "last_commit": "2026-08-25T01:27:32Z",
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1366
@@ -892,7 +892,7 @@
             "last_commit": "2026-06-10T13:06:01Z",
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14746
+            "stars": 14747
           }
         },
         {
@@ -922,7 +922,7 @@
             "last_commit": "2026-08-14T16:50:48Z",
             "owner": "gmh5225",
             "repo": "awesome-llvm-security",
-            "stars": 875
+            "stars": 876
           }
         },
         {
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:43.769Z",
+    "last_updated": "2026-08-25T03:55:30.561Z",
     "original_repository": "learn-llvm/awesome-llvm",
     "original_repository_id": 29251104,
     "original_repository_sha": "ce0163e64c1f43861f02f8cf2108310adfae4be5",
