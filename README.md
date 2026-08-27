@@ -1,4 +1,4 @@
-## Awesome LLVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,364 | 🐛 105 | 📅 2026-08-21
+## Awesome LLVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,402 | 🐛 105 | 📅 2026-08-21
 
 This repo includes LLVM-related projects, websites, docs, and other resources. Only well-maintained resources are included; PRs are welcome.
 This README.md itself mostly records **LLVM backend** (as well as mixed) resources; for **Clang**-specific ones, please check **[Clang.md](./Clang.md)** in this repo.
@@ -32,7 +32,7 @@ This README.md itself mostly records **LLVM backend** (as well as mixed) resourc
 
 # Tutorials/Documentation ([reference](http://llvm.org/docs/index.html))
 
-* 🐉 [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/) - tutorial by David Spickett about LLVM's [TableGen](https://github.com/llvm/llvm-project/tree/main/llvm/utils/TableGen) ⭐ 39,971 | 🐛 38,480 | 🌐 LLVM | 📅 2026-08-27
+* 🐉 [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/) - tutorial by David Spickett about LLVM's [TableGen](https://github.com/llvm/llvm-project/tree/main/llvm/utils/TableGen) ⭐ 39,974 | 🐛 38,467 | 🌐 LLVM | 📅 2026-08-27
 * :octocat: [LLVM-Tutor](https://github.com/banach-space/llvm-tutor) ⭐ 3,425 | 🐛 14 | 🌐 C++ | 📅 2026-05-17 - A collection of out-of-tree LLVM passes for teaching and learning
 * :octocat: [llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial) ⭐ 1,518 | 🐛 1 | 🌐 LLVM | 📅 2026-01-04 (in Chinese)
 * :octocat: [wuzhanglin/llvm-IR-examples](https://github.com/wuzhanglin/llvm-IR-examples) ⭐ 44 | 🐛 0 | 🌐 C++ | 📅 2022-08-23 - Some examples for using LLVM to generate IR
@@ -92,7 +92,7 @@ This README.md itself mostly records **LLVM backend** (as well as mixed) resourc
 
 # Official Tools/Libraries ([reference](http://llvm.org/docs/CommandGuide/index.html))
 
-* [BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/README.md) ⭐ 39,971 | 🐛 38,480 | 🌐 LLVM | 📅 2026-08-27 - a post-link optimizer developed to speed up large applications
+* [BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/README.md) ⭐ 39,974 | 🐛 38,467 | 🌐 LLVM | 📅 2026-08-27 - a post-link optimizer developed to speed up large applications
 * Core Utilities
   * [opt](http://llvm.org/docs/CommandGuide/opt.html) - LLVM optimizer, for LLVM analysis and transformation passes, works on `.ll` or `.bc` files
     * 📹 [Core C++ 2021 :: opt-viewer: Inspecting compiler optimizations in high-level code](https://www.youtube.com/watch?v=BJ_yxTmZQbc)
@@ -144,12 +144,12 @@ This README.md itself mostly records **LLVM backend** (as well as mixed) resourc
 
 # Unofficial Tools/Libraries ([reference](http://llvm.org/ProjectsWithLLVM/))
 
-* [Emscripten](https://github.com/kripken/emscripten) ⭐ 27,577 | 🐛 2,475 | 🌐 C++ | 📅 2026-08-27 - An LLVM-to-JavaScript Compiler
+* [Emscripten](https://github.com/kripken/emscripten) ⭐ 27,578 | 🐛 2,475 | 🌐 C++ | 📅 2026-08-27 - An LLVM-to-JavaScript Compiler
 * [Infer](https://github.com/facebook/infer) ⭐ 15,691 | 🐛 194 | 🌐 OCaml | 📅 2026-08-27 - Facebook's static analysis framework; C/C++/objc is based on LLVM/Clang
 * [RetDec](https://github.com/avast/retdec) ⭐ 8,613 | 🐛 458 | 🌐 C++ | 📅 2026-05-26 - a retargetable machine-code decompiler based on LLVM
 * [ollvm](https://github.com/obfuscator-llvm/obfuscator/wiki) ⭐ 4,390 | 🐛 97 | 📅 2023-10-20 - code obfuscation based on LLVM4.0
-* [cling](https://github.com/root-project/cling) ⭐ 4,182 | 🐛 138 | 🌐 C++ | 📅 2026-08-06 - The cling C++ interpreter ([1.0](https://github.com/vgvassilev/cling/releases/tag/v1.0) ⭐ 1,808 | 🐛 67 | 🌐 C++ | 📅 2026-07-30 has been released)
-* [IKOS](https://github.com/nasa-sw-vnv/ikos) ⭐ 3,160 | 🐛 50 | 🌐 C++ | 📅 2026-05-31 - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
+* [cling](https://github.com/root-project/cling) ⭐ 4,183 | 🐛 138 | 🌐 C++ | 📅 2026-08-06 - The cling C++ interpreter ([1.0](https://github.com/vgvassilev/cling/releases/tag/v1.0) ⭐ 1,808 | 🐛 67 | 🌐 C++ | 📅 2026-07-30 has been released)
+* [IKOS](https://github.com/nasa-sw-vnv/ikos) ⭐ 3,161 | 🐛 50 | 🌐 C++ | 📅 2026-05-31 - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
 * [klee](https://github.com/klee/klee) ⭐ 2,974 | 🐛 82 | 🌐 C++ | 📅 2026-08-21 - Symbolic Virtual Machine
 * [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) ⭐ 2,933 | 🐛 129 | 🌐 C | 📅 2026-08-27 - An LLVM/Clang/LLD based mingw-w64 toolchain
 * [mcsema](https://github.com/trailofbits/mcsema) ⚠️ Archived - An x86 to LLVM IR decompiler
@@ -186,10 +186,10 @@ This README.md itself mostly records **LLVM backend** (as well as mixed) resourc
 # LLVM-backed Languages
 
 * [codon](https://github.com/exaloop/codon) ⭐ 16,836 | 🐛 121 | 🌐 Python | 📅 2026-08-26
-* [numba](https://github.com/numba/numba) ⭐ 11,130 | 🐛 1,799 | 🌐 Python | 📅 2026-08-26
+* [numba](https://github.com/numba/numba) ⭐ 11,131 | 🐛 1,798 | 🌐 Python | 📅 2026-08-27
 * [scala-native](https://github.com/scala-native/scala-native) ⭐ 4,685 | 🐛 421 | 🌐 Scala | 📅 2026-08-17
 * [solang](https://github.com/hyperledger/solang) ⭐ 1,381 | 🐛 301 | 🌐 Rust | 📅 2026-08-25
-* [ldc](https://github.com/ldc-developers/ldc) ⭐ 1,366 | 🐛 583 | 🌐 D | 📅 2026-08-27
+* [ldc](https://github.com/ldc-developers/ldc) ⭐ 1,366 | 🐛 582 | 🌐 D | 📅 2026-08-27
 * ~~[go-llvm](https://github.com/go-llvm/llgo) ⚠️ Archived~~
 * [Ola](https://github.com/mateeeeeee/Ola) ⚠️ Archived - a toy language, for learning LLVM-backend codegen
 * C/C++/ObjC/ObjC++
