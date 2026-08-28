@@ -12,11 +12,12 @@
             "archived": false,
             "id": 75821432,
             "language": "LLVM",
-            "last_commit": "2026-08-27T14:02:47Z",
+            "last_commit": "2026-08-28T15:15:35Z",
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 39974
-          }
+            "stars": 39987
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-05-17T16:51:29Z",
             "owner": "banach-space",
             "repo": "llvm-tutor",
-            "stars": 3425
-          }
+            "stars": 3430
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Evian-Zhang",
             "repo": "llvm-ir-tutorial",
             "stars": 1518
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "wuzhanglin",
             "repo": "llvm-IR-examples",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "delcypher",
             "repo": "srg-llvm-pass-tutorial",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2022-09-13T16:17:29Z",
             "owner": "danbev",
             "repo": "learning-llvm",
-            "stars": 17
-          }
+            "stars": 18
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "JohannesLiu",
             "repo": "LLVM-Pass-Analysis-Toolkit",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "lahiri-phdworks",
             "repo": "LLVM-Examples",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "group",
@@ -141,7 +149,8 @@
                 "owner": "eliben",
                 "repo": "pykaleidoscope",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T15:16:10.993Z"
             }
           ]
         },
@@ -163,7 +172,8 @@
                 "owner": "sunxfancy",
                 "repo": "vscode-llvm",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T15:16:10.993Z"
             }
           ]
         }
@@ -182,11 +192,12 @@
             "archived": false,
             "id": 75821432,
             "language": "LLVM",
-            "last_commit": "2026-08-27T14:02:47Z",
+            "last_commit": "2026-08-28T15:15:35Z",
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 39974
-          }
+            "stars": 39987
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "group",
@@ -202,11 +213,12 @@
                 "archived": false,
                 "id": 283871761,
                 "language": "C++",
-                "last_commit": "2026-08-25T17:58:16Z",
+                "last_commit": "2026-08-28T12:19:27Z",
                 "owner": "llvm",
                 "repo": "torch-mlir",
                 "stars": 1893
-              }
+              },
+              "first_seen": "2026-08-28T15:16:10.993Z"
             },
             {
               "node_type": "item",
@@ -221,7 +233,8 @@
                 "owner": "j2kun",
                 "repo": "mlir-tutorial",
                 "stars": 1347
-              }
+              },
+              "first_seen": "2026-08-28T15:16:10.993Z"
             },
             {
               "node_type": "item",
@@ -236,7 +249,8 @@
                 "owner": "llvm",
                 "repo": "Polygeist",
                 "stars": 626
-              }
+              },
+              "first_seen": "2026-08-28T15:16:10.993Z"
             },
             {
               "node_type": "item",
@@ -251,7 +265,8 @@
                 "owner": "intel",
                 "repo": "mlir-extensions",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T15:16:10.993Z"
             },
             {
               "node_type": "item",
@@ -266,7 +281,8 @@
                 "owner": "Lewuathe",
                 "repo": "mlir-hello",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T15:16:10.993Z"
             },
             {
               "node_type": "item",
@@ -281,7 +297,8 @@
                 "owner": "zincnode",
                 "repo": "mlir-he",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T15:16:10.993Z"
             },
             {
               "node_type": "item",
@@ -296,7 +313,8 @@
                 "owner": "edg-l",
                 "repo": "melior",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:16:10.993Z"
             }
           ]
         }
@@ -315,11 +333,12 @@
             "archived": false,
             "id": 1357796,
             "language": "C++",
-            "last_commit": "2026-08-27T04:33:13Z",
+            "last_commit": "2026-08-28T14:37:47Z",
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27578
-          }
+            "stars": 27580
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -333,8 +352,9 @@
             "last_commit": "2026-08-27T11:11:18Z",
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15691
-          }
+            "stars": 15693
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -348,8 +368,9 @@
             "last_commit": "2026-05-26T09:04:25Z",
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8613
-          }
+            "stars": 8614
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -363,8 +384,9 @@
             "last_commit": "2023-10-20T11:20:42Z",
             "owner": "obfuscator-llvm",
             "repo": "obfuscator",
-            "stars": 4390
-          }
+            "stars": 4389
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -378,8 +400,9 @@
             "last_commit": "2026-08-06T06:09:15Z",
             "owner": "root-project",
             "repo": "cling",
-            "stars": 4183
-          }
+            "stars": 4184
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -394,7 +417,8 @@
             "owner": "NASA-SW-VnV",
             "repo": "ikos",
             "stars": 3161
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -409,7 +433,8 @@
             "owner": "klee",
             "repo": "klee",
             "stars": 2974
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -420,11 +445,12 @@
             "archived": false,
             "id": 112254496,
             "language": "C",
-            "last_commit": "2026-08-27T07:58:04Z",
+            "last_commit": "2026-08-27T21:01:15Z",
             "owner": "mstorsjo",
             "repo": "llvm-mingw",
-            "stars": 2933
-          }
+            "stars": 2934
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -439,7 +465,8 @@
             "owner": "lifting-bits",
             "repo": "mcsema",
             "stars": 2787
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -454,7 +481,8 @@
             "owner": "google",
             "repo": "souper",
             "stars": 2389
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -465,11 +493,12 @@
             "archived": false,
             "id": 245072514,
             "language": "C++",
-            "last_commit": "2026-08-27T01:32:34Z",
+            "last_commit": "2026-08-27T19:53:16Z",
             "owner": "llvm",
             "repo": "circt",
-            "stars": 2226
-          }
+            "stars": 2228
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -483,8 +512,9 @@
             "last_commit": "2026-08-21T14:41:17Z",
             "owner": "QBDI",
             "repo": "QBDI",
-            "stars": 1815
-          }
+            "stars": 1816
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -495,11 +525,12 @@
             "archived": false,
             "id": 44748533,
             "language": "C++",
-            "last_commit": "2026-07-01T13:41:55Z",
+            "last_commit": "2026-08-27T18:13:37Z",
             "owner": "lifting-bits",
             "repo": "remill",
-            "stars": 1808
-          }
+            "stars": 1811
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -513,8 +544,9 @@
             "last_commit": "2026-08-24T11:31:31Z",
             "owner": "SVF-tools",
             "repo": "SVF",
-            "stars": 1705
-          }
+            "stars": 1707
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -525,11 +557,12 @@
             "archived": false,
             "id": 131954048,
             "language": "C++",
-            "last_commit": "2026-08-26T17:03:32Z",
+            "last_commit": "2026-08-27T18:17:39Z",
             "owner": "secure-software-engineering",
             "repo": "phasar",
             "stars": 1054
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -544,7 +577,8 @@
             "owner": "microsoft",
             "repo": "llvm-mctoll",
             "stars": 878
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -559,7 +593,8 @@
             "owner": "travitch",
             "repo": "whole-program-llvm",
             "stars": 734
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -574,7 +609,8 @@
             "owner": "sampsyo",
             "repo": "llvm-pass-skeleton",
             "stars": 614
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -594,7 +630,8 @@
                 "owner": "mchalupa",
                 "repo": "dg",
                 "stars": 525
-              }
+              },
+              "first_seen": "2026-08-28T15:16:10.993Z"
             }
           ],
           "repo_info": {
@@ -605,7 +642,8 @@
             "owner": "mchalupa",
             "repo": "dg",
             "stars": 525
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -616,11 +654,12 @@
             "archived": false,
             "id": 5234086,
             "language": "C",
-            "last_commit": "2026-08-27T06:10:58Z",
+            "last_commit": "2026-08-28T07:13:40Z",
             "owner": "smackers",
             "repo": "smack",
             "stars": 448
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -635,7 +674,8 @@
             "owner": "ucsb-seclab",
             "repo": "dr_checker",
             "stars": 339
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -650,7 +690,8 @@
             "owner": "seahorn",
             "repo": "clam",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -664,8 +705,9 @@
             "last_commit": "2021-02-27T09:20:16Z",
             "owner": "ShiftLeftSecurity",
             "repo": "llvm2cpg",
-            "stars": 94
-          }
+            "stars": 95
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -680,7 +722,8 @@
             "owner": "staticafi",
             "repo": "llvm2c",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -695,7 +738,8 @@
             "owner": "GaloisInc",
             "repo": "yapall",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -710,7 +754,8 @@
             "owner": "diffkemp",
             "repo": "diffkemp",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -725,7 +770,8 @@
             "owner": "cisco-open",
             "repo": "llvm-crash-analyzer",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         }
       ],
       "title": "Unofficial Tools/Libraries (reference)"
@@ -742,11 +788,12 @@
             "archived": false,
             "id": 22725061,
             "language": "Python",
-            "last_commit": "2026-08-26T23:02:43Z",
+            "last_commit": "2026-08-28T07:19:26Z",
             "owner": "numba",
             "repo": "llvmlite",
-            "stars": 2285
-          }
+            "stars": 2289
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -761,7 +808,8 @@
             "owner": "tinygo-org",
             "repo": "go-llvm",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         }
       ],
       "title": "Bindings"
@@ -778,11 +826,12 @@
             "archived": false,
             "id": 410989014,
             "language": "Python",
-            "last_commit": "2026-08-26T21:30:33Z",
+            "last_commit": "2026-08-27T16:39:52Z",
             "owner": "exaloop",
             "repo": "codon",
             "stars": 16836
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -793,11 +842,12 @@
             "archived": false,
             "id": 3659275,
             "language": "Python",
-            "last_commit": "2026-08-27T13:53:01Z",
+            "last_commit": "2026-08-28T12:19:51Z",
             "owner": "numba",
             "repo": "numba",
             "stars": 11131
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -811,8 +861,9 @@
             "last_commit": "2026-08-17T03:33:59Z",
             "owner": "scala-native",
             "repo": "scala-native",
-            "stars": 4685
-          }
+            "stars": 4686
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -823,11 +874,12 @@
             "archived": false,
             "id": 163517929,
             "language": "Rust",
-            "last_commit": "2026-08-25T12:05:23Z",
+            "last_commit": "2026-08-27T17:20:34Z",
             "owner": "hyperledger-solang",
             "repo": "solang",
             "stars": 1381
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -838,11 +890,12 @@
             "archived": false,
             "id": 2174666,
             "language": "D",
-            "last_commit": "2026-08-27T13:48:20Z",
+            "last_commit": "2026-08-28T10:26:40Z",
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1366
-          }
+            "stars": 1367
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -857,7 +910,8 @@
             "owner": "go-llvm",
             "repo": "llgo",
             "stars": 1250
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -872,7 +926,8 @@
             "owner": "mateeeeeee",
             "repo": "Ola",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         }
       ],
       "title": "LLVM-backed Languages"
@@ -889,11 +944,12 @@
             "archived": false,
             "id": 48246447,
             "language": "Rust",
-            "last_commit": "2026-06-10T13:06:01Z",
+            "last_commit": "2026-08-28T15:15:44Z",
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14751
-          }
+            "stars": 14752
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -908,7 +964,8 @@
             "owner": "analysis-tools-dev",
             "repo": "dynamic-analysis",
             "stars": 1103
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -922,8 +979,9 @@
             "last_commit": "2026-08-14T16:50:48Z",
             "owner": "gmh5225",
             "repo": "awesome-llvm-security",
-            "stars": 876
-          }
+            "stars": 877
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         },
         {
           "node_type": "item",
@@ -938,14 +996,15 @@
             "owner": "mikeroyal",
             "repo": "LLVM-Guide",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
         }
       ],
       "title": "Other relevant resources:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:05:14.955Z",
+    "last_updated": "2026-08-28T15:16:10.993Z",
     "original_repository_info": {
       "archived": false,
       "id": 29251104,
