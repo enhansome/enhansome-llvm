@@ -15,11 +15,11 @@
             "id": 75821432,
             "language": "LLVM",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T08:11:20Z",
-            "open_issues": 39105,
+            "last_commit": "2026-09-14T08:46:45Z",
+            "open_issues": 39111,
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 40440,
+            "stars": 40458,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -40,7 +40,7 @@
             "open_issues": 14,
             "owner": "banach-space",
             "repo": "llvm-tutor",
-            "stars": 3438,
+            "stars": 3437,
             "topics": [
               "compilers",
               "llvm",
@@ -269,11 +269,11 @@
             "id": 75821432,
             "language": "LLVM",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T08:11:20Z",
-            "open_issues": 39105,
+            "last_commit": "2026-09-14T08:46:45Z",
+            "open_issues": 39111,
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 40440,
+            "stars": 40458,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -295,11 +295,11 @@
                 "id": 283871761,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T15:39:04Z",
-                "open_issues": 577,
+                "last_commit": "2026-09-14T03:08:25Z",
+                "open_issues": 580,
                 "owner": "llvm",
                 "repo": "torch-mlir",
-                "stars": 1910,
+                "stars": 1913,
                 "topics": [
                   "compiler",
                   "mlir",
@@ -324,7 +324,7 @@
                 "open_issues": 8,
                 "owner": "j2kun",
                 "repo": "mlir-tutorial",
-                "stars": 1356,
+                "stars": 1357,
                 "topics": [
                   "compilers",
                   "mlir",
@@ -366,7 +366,7 @@
                 "id": 394449678,
                 "language": "MLIR",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T14:52:48Z",
+                "last_commit": "2026-09-13T16:28:14Z",
                 "open_issues": 84,
                 "owner": "intel",
                 "repo": "mlir-extensions",
@@ -471,11 +471,11 @@
             "id": 1357796,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T15:12:51Z",
-            "open_issues": 2483,
+            "last_commit": "2026-09-13T10:41:11Z",
+            "open_issues": 2485,
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27609,
+            "stars": 27610,
             "topics": [
               "emscripten",
               "hacktoberfest",
@@ -501,7 +501,7 @@
             "open_issues": 207,
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15706,
+            "stars": 15705,
             "topics": [
               "c",
               "code-quality",
@@ -551,7 +551,7 @@
             "open_issues": 97,
             "owner": "obfuscator-llvm",
             "repo": "obfuscator",
-            "stars": 4393,
+            "stars": 4394,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -625,7 +625,7 @@
             "open_issues": 82,
             "owner": "klee",
             "repo": "klee",
-            "stars": 2976,
+            "stars": 2977,
             "topics": [
               "klee",
               "symbolic-execution"
@@ -720,7 +720,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-12T11:30:30Z",
-            "open_issues": 1145,
+            "open_issues": 1146,
             "owner": "llvm",
             "repo": "circt",
             "stars": 2240,
@@ -748,7 +748,7 @@
             "open_issues": 73,
             "owner": "lifting-bits",
             "repo": "remill",
-            "stars": 1825,
+            "stars": 1826,
             "topics": [
               "aarch64",
               "armv7",
@@ -781,7 +781,7 @@
             "open_issues": 20,
             "owner": "QBDI",
             "repo": "QBDI",
-            "stars": 1819,
+            "stars": 1820,
             "topics": [
               "dbi",
               "frida",
@@ -805,7 +805,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-31T03:54:26Z",
-            "open_issues": 209,
+            "open_issues": 210,
             "owner": "SVF-tools",
             "repo": "SVF",
             "stars": 1708,
@@ -870,7 +870,7 @@
             "open_issues": 46,
             "owner": "microsoft",
             "repo": "llvm-mctoll",
-            "stars": 879,
+            "stars": 880,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -1231,7 +1231,7 @@
             "open_issues": 169,
             "owner": "numba",
             "repo": "llvmlite",
-            "stars": 2293,
+            "stars": 2294,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -1279,11 +1279,11 @@
             "id": 410989014,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T03:26:59Z",
-            "open_issues": 115,
+            "last_commit": "2026-09-14T06:39:46Z",
+            "open_issues": 116,
             "owner": "exaloop",
             "repo": "codon",
-            "stars": 16841,
+            "stars": 16842,
             "topics": [
               "compiler",
               "gpu-programming",
@@ -1309,10 +1309,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-11T21:12:47Z",
-            "open_issues": 1789,
+            "open_issues": 1792,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11151,
+            "stars": 11152,
             "topics": [
               "compiler",
               "cuda",
@@ -1337,7 +1337,7 @@
             "id": 27235687,
             "language": "Scala",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T10:27:21Z",
+            "last_commit": "2026-09-14T06:14:30Z",
             "open_issues": 393,
             "owner": "scala-native",
             "repo": "scala-native",
@@ -1369,7 +1369,7 @@
             "open_issues": 293,
             "owner": "hyperledger-solang",
             "repo": "solang",
-            "stars": 1381,
+            "stars": 1382,
             "topics": [
               "blockchain",
               "bpf",
@@ -1399,7 +1399,7 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T04:02:42Z",
+            "last_commit": "2026-09-14T04:11:24Z",
             "open_issues": 583,
             "owner": "ldc-developers",
             "repo": "ldc",
@@ -1488,8 +1488,8 @@
             "id": 48246447,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-11T18:22:15Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-13T13:02:18Z",
+            "open_issues": 9,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
             "stars": 14781,
@@ -1619,7 +1619,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T08:14:05.862Z",
+    "last_updated": "2026-09-14T08:48:56.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLVM (including Clang, etc) related resources.",
