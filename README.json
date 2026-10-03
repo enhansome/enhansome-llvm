@@ -15,11 +15,11 @@
             "id": 75821432,
             "language": "LLVM",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T04:51:25Z",
-            "open_issues": 39931,
+            "last_commit": "2026-10-03T09:00:55Z",
+            "open_issues": 39934,
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 40895,
+            "stars": 40900,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -269,11 +269,11 @@
             "id": 75821432,
             "language": "LLVM",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T04:51:25Z",
-            "open_issues": 39931,
+            "last_commit": "2026-10-03T09:00:55Z",
+            "open_issues": 39934,
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 40895,
+            "stars": 40900,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -370,7 +370,7 @@
                 "open_issues": 87,
                 "owner": "intel",
                 "repo": "mlir-extensions",
-                "stars": 156,
+                "stars": 157,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:10.993Z"
@@ -475,7 +475,7 @@
             "open_issues": 2500,
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27673,
+            "stars": 27675,
             "topics": [
               "emscripten",
               "hacktoberfest",
@@ -649,7 +649,7 @@
             "open_issues": 130,
             "owner": "mstorsjo",
             "repo": "llvm-mingw",
-            "stars": 2978,
+            "stars": 2979,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -719,8 +719,8 @@
             "id": 245072514,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T03:43:39Z",
-            "open_issues": 1165,
+            "last_commit": "2026-10-03T08:37:07Z",
+            "open_issues": 1166,
             "owner": "llvm",
             "repo": "circt",
             "stars": 2250,
@@ -1283,7 +1283,7 @@
             "open_issues": 113,
             "owner": "exaloop",
             "repo": "codon",
-            "stars": 16847,
+            "stars": 16848,
             "topics": [
               "compiler",
               "gpu-programming",
@@ -1619,7 +1619,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:53:32.264Z",
+    "last_updated": "2026-10-03T09:03:46.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLVM (including Clang, etc) related resources.",
