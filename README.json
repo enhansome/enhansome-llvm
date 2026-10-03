@@ -15,11 +15,11 @@
             "id": 75821432,
             "language": "LLVM",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T09:35:58Z",
-            "open_issues": 39911,
+            "last_commit": "2026-10-03T04:51:25Z",
+            "open_issues": 39931,
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 40882,
+            "stars": 40895,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -40,7 +40,7 @@
             "open_issues": 14,
             "owner": "banach-space",
             "repo": "llvm-tutor",
-            "stars": 3445,
+            "stars": 3446,
             "topics": [
               "compilers",
               "llvm",
@@ -198,7 +198,7 @@
             {
               "node_type": "item",
               "title": ":octocat: Python Version of the LLVM Tutorial",
-              "description": null,
+              "description": "eliben/pykaleidoscope",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -269,11 +269,11 @@
             "id": 75821432,
             "language": "LLVM",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T09:35:58Z",
-            "open_issues": 39911,
+            "last_commit": "2026-10-03T04:51:25Z",
+            "open_issues": 39931,
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 40882,
+            "stars": 40895,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -296,7 +296,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T08:31:14Z",
-                "open_issues": 595,
+                "open_issues": 597,
                 "owner": "llvm",
                 "repo": "torch-mlir",
                 "stars": 1927,
@@ -366,8 +366,8 @@
                 "id": 394449678,
                 "language": "MLIR",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T17:46:48Z",
-                "open_issues": 85,
+                "last_commit": "2026-10-02T10:48:57Z",
+                "open_issues": 87,
                 "owner": "intel",
                 "repo": "mlir-extensions",
                 "stars": 156,
@@ -471,11 +471,11 @@
             "id": 1357796,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T00:04:36Z",
-            "open_issues": 2501,
+            "last_commit": "2026-10-03T01:20:16Z",
+            "open_issues": 2500,
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27669,
+            "stars": 27673,
             "topics": [
               "emscripten",
               "hacktoberfest",
@@ -497,8 +497,8 @@
             "id": 29857799,
             "language": "OCaml",
             "license": "MIT",
-            "last_commit": "2026-10-01T16:26:26Z",
-            "open_issues": 218,
+            "last_commit": "2026-10-02T17:56:37Z",
+            "open_issues": 271,
             "owner": "facebook",
             "repo": "infer",
             "stars": 15714,
@@ -530,7 +530,7 @@
             "open_issues": 458,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8636,
+            "stars": 8635,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -551,7 +551,7 @@
             "open_issues": 97,
             "owner": "obfuscator-llvm",
             "repo": "obfuscator",
-            "stars": 4393,
+            "stars": 4392,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -572,7 +572,7 @@
             "open_issues": 138,
             "owner": "root-project",
             "repo": "cling",
-            "stars": 4197,
+            "stars": 4196,
             "topics": [
               "c-plus-plus",
               "clang",
@@ -719,11 +719,11 @@
             "id": 245072514,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T04:46:13Z",
-            "open_issues": 1174,
+            "last_commit": "2026-10-03T03:43:39Z",
+            "open_issues": 1165,
             "owner": "llvm",
             "repo": "circt",
-            "stars": 2251,
+            "stars": 2250,
             "topics": [
               "circt",
               "llvm",
@@ -748,7 +748,7 @@
             "open_issues": 74,
             "owner": "lifting-bits",
             "repo": "remill",
-            "stars": 1848,
+            "stars": 1849,
             "topics": [
               "aarch64",
               "armv7",
@@ -860,7 +860,7 @@
           "description": "statically (AOT) translates (or raises) binaries to LLVM IR",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "llvm-mctoll",
             "homepage": null,
             "id": 152660616,
@@ -1227,11 +1227,11 @@
             "id": 22725061,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-01T21:37:05Z",
+            "last_commit": "2026-10-02T16:47:39Z",
             "open_issues": 168,
             "owner": "numba",
             "repo": "llvmlite",
-            "stars": 2303,
+            "stars": 2304,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -1248,7 +1248,7 @@
             "id": 150896460,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T08:43:37Z",
+            "last_commit": "2026-10-02T18:18:09Z",
             "open_issues": 8,
             "owner": "tinygo-org",
             "repo": "go-llvm",
@@ -1270,7 +1270,7 @@
         {
           "node_type": "item",
           "title": "codon",
-          "description": null,
+          "description": "exaloop/codon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1299,7 +1299,7 @@
         {
           "node_type": "item",
           "title": "numba",
-          "description": null,
+          "description": "numba/numba",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1308,8 +1308,8 @@
             "id": 3659275,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-01T21:12:25Z",
-            "open_issues": 1817,
+            "last_commit": "2026-10-02T18:16:02Z",
+            "open_issues": 1820,
             "owner": "numba",
             "repo": "numba",
             "stars": 11169,
@@ -1328,7 +1328,7 @@
         {
           "node_type": "item",
           "title": "scala-native",
-          "description": null,
+          "description": "scala-native/scala-native",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1338,7 +1338,7 @@
             "language": "Scala",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T02:12:05Z",
-            "open_issues": 393,
+            "open_issues": 394,
             "owner": "scala-native",
             "repo": "scala-native",
             "stars": 4692,
@@ -1356,7 +1356,7 @@
         {
           "node_type": "item",
           "title": "solang",
-          "description": null,
+          "description": "hyperledger-solang/solang",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1366,7 +1366,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T22:48:09Z",
-            "open_issues": 295,
+            "open_issues": 296,
             "owner": "hyperledger-solang",
             "repo": "solang",
             "stars": 1383,
@@ -1390,7 +1390,7 @@
         {
           "node_type": "item",
           "title": "ldc",
-          "description": null,
+          "description": "ldc-developers/ldc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1399,7 +1399,7 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T04:53:18Z",
+            "last_commit": "2026-10-03T04:35:45Z",
             "open_issues": 585,
             "owner": "ldc-developers",
             "repo": "ldc",
@@ -1417,7 +1417,7 @@
         {
           "node_type": "item",
           "title": "go-llvm",
-          "description": null,
+          "description": "go-llvm/llgo",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1488,11 +1488,11 @@
             "id": 48246447,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-21T23:22:40Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-02T11:05:38Z",
+            "open_issues": 2,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14819,
+            "stars": 14821,
             "topics": [
               "analysis",
               "awesome-list",
@@ -1575,7 +1575,7 @@
         {
           "node_type": "item",
           "title": ":octocat: LLVM-Guide",
-          "description": null,
+          "description": "mikeroyal/LLVM-Guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1619,7 +1619,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:39:34.796Z",
+    "last_updated": "2026-10-03T04:53:32.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLVM (including Clang, etc) related resources.",
