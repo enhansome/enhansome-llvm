@@ -15,11 +15,11 @@
             "id": 75821432,
             "language": "LLVM",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T09:36:05Z",
-            "open_issues": 40157,
+            "last_commit": "2026-10-11T09:53:12Z",
+            "open_issues": 40238,
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 40994,
+            "stars": 41004,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -40,7 +40,7 @@
             "open_issues": 14,
             "owner": "banach-space",
             "repo": "llvm-tutor",
-            "stars": 3449,
+            "stars": 3448,
             "topics": [
               "compilers",
               "llvm",
@@ -70,7 +70,7 @@
             "open_issues": 1,
             "owner": "Evian-Zhang",
             "repo": "llvm-ir-tutorial",
-            "stars": 1516,
+            "stars": 1517,
             "topics": [
               "llvm",
               "llvm-ir"
@@ -269,11 +269,11 @@
             "id": 75821432,
             "language": "LLVM",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T09:36:05Z",
-            "open_issues": 40157,
+            "last_commit": "2026-10-11T09:53:12Z",
+            "open_issues": 40238,
             "owner": "llvm",
             "repo": "llvm-project",
-            "stars": 40994,
+            "stars": 41004,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -324,7 +324,7 @@
                 "open_issues": 8,
                 "owner": "j2kun",
                 "repo": "mlir-tutorial",
-                "stars": 1364,
+                "stars": 1363,
                 "topics": [
                   "compilers",
                   "mlir",
@@ -366,8 +366,8 @@
                 "id": 394449678,
                 "language": "MLIR",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T10:48:19Z",
-                "open_issues": 88,
+                "last_commit": "2026-10-10T10:44:44Z",
+                "open_issues": 89,
                 "owner": "intel",
                 "repo": "mlir-extensions",
                 "stars": 157,
@@ -471,11 +471,11 @@
             "id": 1357796,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T23:07:32Z",
-            "open_issues": 2515,
+            "last_commit": "2026-10-10T10:42:36Z",
+            "open_issues": 2516,
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27696,
+            "stars": 27698,
             "topics": [
               "emscripten",
               "hacktoberfest",
@@ -530,7 +530,7 @@
             "open_issues": 458,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8642,
+            "stars": 8643,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
@@ -599,13 +599,34 @@
             "open_issues": 51,
             "owner": "NASA-SW-VnV",
             "repo": "ikos",
-            "stars": 3171,
+            "stars": 3170,
             "topics": [
               "abstract-interpretation",
               "program-analysis",
               "software-verification",
               "static-analysis"
             ]
+          },
+          "first_seen": "2026-08-28T15:16:10.993Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mstorsjo/llvm-mingw",
+          "description": "An LLVM/Clang/LLD based mingw-w64 toolchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An LLVM/Clang/LLD based mingw-w64 toolchain",
+            "homepage": null,
+            "id": 112254496,
+            "language": "C",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-09T12:24:55Z",
+            "open_issues": 129,
+            "owner": "mstorsjo",
+            "repo": "llvm-mingw",
+            "stars": 2983,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
         },
@@ -630,27 +651,6 @@
               "klee",
               "symbolic-execution"
             ]
-          },
-          "first_seen": "2026-08-28T15:16:10.993Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mstorsjo/llvm-mingw",
-          "description": "An LLVM/Clang/LLD based mingw-w64 toolchain",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An LLVM/Clang/LLD based mingw-w64 toolchain",
-            "homepage": null,
-            "id": 112254496,
-            "language": "C",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-09T12:24:55Z",
-            "open_issues": 129,
-            "owner": "mstorsjo",
-            "repo": "llvm-mingw",
-            "stars": 2982,
-            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.993Z"
         },
@@ -723,7 +723,7 @@
             "open_issues": 1183,
             "owner": "llvm",
             "repo": "circt",
-            "stars": 2257,
+            "stars": 2256,
             "topics": [
               "circt",
               "llvm",
@@ -804,8 +804,8 @@
             "id": 36905975,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T07:24:21Z",
-            "open_issues": 223,
+            "last_commit": "2026-10-11T09:09:08Z",
+            "open_issues": 217,
             "owner": "SVF-tools",
             "repo": "SVF",
             "stars": 1715,
@@ -839,7 +839,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T09:29:43Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "secure-software-engineering",
             "repo": "phasar",
             "stars": 1059,
@@ -1227,8 +1227,8 @@
             "id": 22725061,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-07T11:13:42Z",
-            "open_issues": 171,
+            "last_commit": "2026-10-11T00:21:21Z",
+            "open_issues": 172,
             "owner": "numba",
             "repo": "llvmlite",
             "stars": 2310,
@@ -1308,11 +1308,11 @@
             "id": 3659275,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-09T08:21:54Z",
-            "open_issues": 1822,
+            "last_commit": "2026-10-11T00:21:26Z",
+            "open_issues": 1825,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11176,
+            "stars": 11174,
             "topics": [
               "compiler",
               "cuda",
@@ -1337,8 +1337,8 @@
             "id": 27235687,
             "language": "Scala",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T02:22:43Z",
-            "open_issues": 394,
+            "last_commit": "2026-10-11T06:09:44Z",
+            "open_issues": 387,
             "owner": "scala-native",
             "repo": "scala-native",
             "stars": 4694,
@@ -1366,7 +1366,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T22:48:09Z",
-            "open_issues": 301,
+            "open_issues": 302,
             "owner": "hyperledger-solang",
             "repo": "solang",
             "stars": 1383,
@@ -1399,8 +1399,8 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T05:08:46Z",
-            "open_issues": 586,
+            "last_commit": "2026-10-11T04:58:08Z",
+            "open_issues": 588,
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1374,
@@ -1492,7 +1492,7 @@
             "open_issues": 2,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14832,
+            "stars": 14830,
             "topics": [
               "analysis",
               "awesome-list",
@@ -1619,7 +1619,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T09:43:37.880Z",
+    "last_updated": "2026-10-11T09:54:35.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLVM (including Clang, etc) related resources.",
